@@ -1,0 +1,7 @@
+---
+
+mysqlservice: mysqld
+mysql_port: # port no
+dbuser: piwik
+dbname: # dbname
+upassword: # secure password here
